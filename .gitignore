@@ -1,0 +1,7 @@
+__pychace__/
+.vs/
+assets/
+checkpoints/
+faceutils/
+log/
+test_faceplusplus_copy.py

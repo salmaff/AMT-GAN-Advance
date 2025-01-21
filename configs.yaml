@@ -1,0 +1,8 @@
+DATA:
+    BATCH_SIZE: 1
+    IMG_SIZE: 128
+TRAINING:
+    NUM_EPOCHS: 100
+MODELZOO:
+    MODELS: ['facenet']
+

@@ -1,0 +1,15 @@
+six
+dlib
+fvcore
+matplotlib
+numpy
+opencv_python
+Pillow
+rawpy
+requests
+scikit-image
+scipy
+torch
+torchsummary
+torchvision
+tqdm
